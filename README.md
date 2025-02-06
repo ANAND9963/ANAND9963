@@ -32,7 +32,7 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANAND9963&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANAND9963&theme=tokyonight" width="100%"/>
+  <img src="https://img.shields.io/badge/Current_Streak-🔥_X_days-orange?style=for-the-badge" alt="streak badge"/>
 
 </p>
 <p align="center">
