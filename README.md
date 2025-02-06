@@ -32,11 +32,12 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANAND9963&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANAND9963&theme=tokyonight" width="48%"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANAND9963&theme=tokyonight" width="100%"/>
 </p>
+
 
 ---
 
