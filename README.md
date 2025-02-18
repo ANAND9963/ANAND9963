@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Anand Kumar Yannamaneni</h1>
+<h1 align="center">Hi there! 👋 I'm Anand Kumar</h1>
 
 <img align="center" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="100%" height="250px"/>
 
