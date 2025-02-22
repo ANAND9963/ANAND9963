@@ -13,7 +13,7 @@
 - 🎓 CS Grad | Passionate about **AI, System Design & Web Development**
 - 🚀 Currently exploring **ML, NLP & Large-Scale Systems**
 - 💡 Always open to collaborations on **cool projects**
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/anandyk)** | **[Leetcode]([https://leetcode.com/u/pavan1498/](https://leetcode.com/u/Anand9963/))**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/anandyk)** | **[Leetcode]((https://leetcode.com/u/Anand9963/))**
 
 ---
 
