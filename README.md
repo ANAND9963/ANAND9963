@@ -10,7 +10,8 @@
 ---
 
 ## 🔥 About Me
-- 🎓 CS Grad | Passionate about **AI, System Design & Web Development**
+- 🎓 Recently completed my Master's in Computer Science from the University of Bridgeport
+- 🎓 Passionate about **AI, System Design & Web Development**
 - 🚀 Currently exploring **ML, NLP & Large-Scale Systems**
 - 💡 Always open to collaborations on **cool projects**
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/anandyk)** | **[Leetcode](https://leetcode.com/Anand9963/)**
